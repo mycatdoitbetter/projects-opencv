@@ -1,5 +1,6 @@
  # Lapisco Training
  ## Questões baseadas em processamento de imagem, integrando Machine Learning.
+ #### As resoluções estão linkadas com o indice das questões.
  
 
 | Question | Description |
